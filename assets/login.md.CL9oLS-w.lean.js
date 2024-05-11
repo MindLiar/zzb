@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CR4cMJKz.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"login"},"headers":[],"relativePath":"login.md","filePath":"login.md"}'),a={name:"login.md"};function n(r,s,c,i,l,p){return o(),t("div")}const m=e(a,[["render",n]]);export{d as __pageData,m as default};
